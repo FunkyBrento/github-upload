@@ -1,0 +1,192 @@
+a:4:{s:8:"template";s:14:"free-education";s:4:"mods";a:27:{i:0;b:0;s:18:"nav_menu_locations";a:2:{s:7:"primary";i:4;s:11:"useful-link";i:5;}s:18:"custom_css_post_id";i:336;s:31:"free_education_top_header_items";s:213:"[{"ed_item_icon":"fa fa-phone","ed_item_text":"123-456-789"},{"ed_item_icon":"fa fa-envelope-o","ed_item_text":"contact@yourdomain.com"},{"ed_item_icon":"fa fa-clock-o","ed_item_text":"Opening: 10:00am - 5:00pm"}]";s:27:"free_education_slider_items";s:379:"[{"ed_dropdown_pages":25,"ed_item_text":"Our Courses","ed_item_url":"#","ed_item_text_1":"About Learnedu","ed_item_url_1":"#"},{"ed_dropdown_pages":31,"ed_item_text":"Our Courses","ed_item_url":"#","ed_item_text_1":"About Learnedu","ed_item_url_1":"#"},{"ed_dropdown_pages":30,"ed_item_text":"Our Courses","ed_item_url":"#","ed_item_text_1":"About Learnedu","ed_item_url_1":"#"}]";s:33:"free_education_enroll_skill_items";s:213:"[{"ed_item_number":80,"ed_item_text":"28K+","ed_item_text_1":"Students"},{"ed_item_number":85,"ed_item_text":"50+","ed_item_text_1":"Courses"},{"ed_item_number":90,"ed_item_text":"33+","ed_item_text_1":"Teacher"}]";s:28:"free_education_teacher_items";s:1224:"[{"ed_dropdown_teacher":5,"ed_item_text":"Associate Professor","ed_item_social_icon":"fa fa-facebook","ed_item_url":"#","ed_item_social_icon_1":"fa fa-twitter","ed_item_url_1":"#","ed_item_social_icon_2":"fa fa-linkedin","ed_item_url_2":"#","ed_item_social_icon_3":"fa fa-behance","ed_item_url_3":"#"},{"ed_dropdown_teacher":2,"ed_item_text":"Web Programmer","ed_item_social_icon":"fa fa-facebook","ed_item_url":"#","ed_item_social_icon_1":"fa fa-twitter","ed_item_url_1":"#","ed_item_social_icon_2":"fa fa-linkedin-square","ed_item_url_2":"#","ed_item_social_icon_3":"fa fa-behance","ed_item_url_3":"#"},{"ed_dropdown_teacher":3,"ed_item_text":"Software Engineer","ed_item_social_icon":"fa fa-facebook","ed_item_url":"#","ed_item_social_icon_1":"fa fa-twitter","ed_item_url_1":"#","ed_item_social_icon_2":"fa fa-behance","ed_item_url_2":"#","ed_item_social_icon_3":"fa fa-linkedin-square","ed_item_url_3":"#"},{"ed_dropdown_teacher":4,"ed_item_text":"PHP Developer","ed_item_social_icon":"fa fa-facebook-official","ed_item_url":"#","ed_item_social_icon_1":"fa fa-twitter","ed_item_url_1":"#","ed_item_social_icon_2":"fa fa-linkedin-square","ed_item_url_2":"#","ed_item_social_icon_3":"fa fa-instagram","ed_item_url_3":"#"}]";s:38:"free_education_frontpage_counter_items";s:368:"[{"ed_item_icon":"fa fa-institution","ed_item_text":"80k+","ed_item_text_1":"Active Cources"},{"ed_item_icon":"fa fa-graduation-cap","ed_item_text":"33k+","ed_item_text_1":"Active Students"},{"ed_item_icon":"fa fa-video-camera","ed_item_text":"278+","ed_item_text_1":"Video Courses"},{"ed_item_icon":"fa fa-trophy","ed_item_text":"308+","ed_item_text_1":"Awards Won"}]";s:33:"free_education_inner_header_items";s:315:"[{"ed_item_icon":"fa fa-phone","ed_item_text":"Call Now","ed_item_text_1":"(+121) 1800 567 980"},{"ed_item_icon":"fa fa-envelope-o","ed_item_text":"Send Message","ed_item_text_1":"support@education.com"},{"ed_item_icon":"fa fa-map-marker","ed_item_text":"Our Location","ed_item_text_1":"211 Ronad, California, Us"}]";s:11:"custom_logo";i:334;s:18:"social_media_icons";s:428:"[{"ed_item_social_icon":"fa fa-twitter","ed_item_url":"#"},{"ed_item_social_icon":"fa fa-facebook","ed_item_url":"#"},{"ed_item_social_icon":"fa fa-google-plus-square","ed_item_url":"#"},{"ed_item_social_icon":"fa fa-linkedin-square","ed_item_url":"#"},{"ed_item_social_icon":"fa fa-behance","ed_item_url":"#"},{"ed_item_social_icon":"fa fa-dribbble","ed_item_url":"#"},{"ed_item_social_icon":"fa fa-youtube","ed_item_url":"#"}]";s:45:"free_education_frontpage_service_title_option";i:36;s:49:"free_education_frontpage_enroll_form_title_option";s:14:"Register Today";s:52:"free_education_frontpage_enroll_form_subtitle_option";s:44:"Before you miss the chance to get your seat!";s:32:"free_education_contact_form_code";s:53:"[contact-form-7 id="45" title="Enroll Register Form"]";s:44:"free_education_frontpage_enroll_title_option";i:48;s:44:"free_education_frontpage_course_title_option";i:52;s:52:"free_education_frontpage_call_to_action_title_option";i:267;s:58:"free_education_frontpage_call_to_action_button_text_option";s:12:"Register now";s:57:"free_education_frontpage_call_to_action_button_url_option";s:1:"#";s:45:"free_education_frontpage_teacher_title_option";i:271;s:44:"free_education_frontpage_events_title_option";i:287;s:42:"free_education_frontpage_blog_title_option";i:299;s:31:"free_education_blog_category_id";i:3;s:16:"sidebars_widgets";a:2:{s:4:"time";i:1532514875;s:4:"data";a:3:{s:19:"wp_inactive_widgets";a:0:{}s:9:"sidebar-1";a:3:{i:0;s:8:"search-2";i:1;s:12:"categories-2";i:2;s:11:"tag_cloud-2";}s:6:"footer";a:4:{i:0;s:29:"free_education_about_widget-2";i:1;s:36:"free_education_usefull_link_widget-2";i:2;s:35:"free-education_latest_post_widget-2";i:3;s:25:"newsletterwidgetminimal-2";}}}s:44:"free_education_frontpage_contact_form_option";s:46:"[contact-form-7 id="372" title="Contact Form"]";s:36:"free_education_contact_address_items";s:371:"[{"ed_item_icon":"fa fa-map","ed_item_text":"Location","ed_item_text_1":"60 Grant Ave. Central New Road 0708, UK 9766 Tanner"},{"ed_item_icon":"fa fa-envelope-o","ed_item_text":"Email Address","ed_item_text_1":"information@yourwebsite.com, admission@yourwebsite.com"},{"ed_item_icon":"fa fa-phone","ed_item_text":"Get in Touch","ed_item_text_1":"+ (234) 853 232 455669"}]";}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:4515:".learnedu-sidebar div[class*=col-]{
+	max-width: 100%;
+	padding: 0;
+}
+.learnedu-sidebar .widget-title{
+	font-size: 20px;
+	padding-left: 10px;
+    border-left: 2px solid transparent;
+    margin-bottom: 20px;
+	border-left-color: #00B16A;
+}
+.enroll-form label{
+	width: 100%;
+	display: block;
+	color: #252525;
+	margin-bottom: 30px;
+	line-height: 2.5;
+}
+.enroll-form input{
+	height: 40px;
+}
+.enroll-form input,
+.enroll-form textarea{
+	width: 100%;
+	padding: 0;
+	border-radius: 0;
+	border-style: none none solid;
+	font-weight: 500;
+	color: #00b16a !important;
+	outline: none;
+}
+.enroll-form input::placeholder,
+.enroll-form textarea::placeholder{
+	color: #999;
+}
+.enroll-form input:hover,
+.enroll-form textarea:hover{
+	padding-left: 15px;
+}
+.enroll-form input[type=submit]{
+	padding: 18px 0;
+	height: auto;
+	border: 0;
+	text-align: center;
+	text-transform: uppercase;
+	color: #fff !important;
+	background: #252525;
+}
+.enroll-form input[type=submit]:hover{
+	background: #00b16a;
+}
+.learnpress-page .lp-button{
+	line-height: 1.6;
+}
+.course-tab-panel .row{
+	margin: 0;
+}
+.course-tabs{
+	margin: 20px 0 0;
+}
+ul.learn-press-nav-tabs{
+	border: 0;
+}
+ul.learn-press-nav-tabs li{
+	margin: 0 10px 0 0 !important;
+}
+ul.learn-press-nav-tabs li:last-child{
+	margin: 0 !important;
+}
+ul.learn-press-nav-tabs .course-nav a{
+	border-radius: 5px;
+	color: #252525;
+}
+ul.learn-press-nav-tabs .course-nav.active a,
+ul.learn-press-nav-tabs .course-nav:hover a{
+	background: #00B16A;
+	color: #fff !important;
+}
+ul.learn-press-nav-tabs .course-nav.active:after, ul.learn-press-nav-tabs .course-nav:hover:after{
+	content: none;
+}
+ul.learn-press-nav-tabs .course-nav:before{
+	content: "";
+	position: absolute;
+	bottom: -10px;
+	left: 50%;
+	transform: translateX(-50%);
+	-webkit-transform: translateX(-50%);
+	width: 0;
+height: 0;
+border-style: solid;
+border-width: 10px 7.5px 0 7.5px;
+border-color: #00b16a transparent transparent transparent;
+line-height: 0px;
+_border-color: #00b16a #000000 #000000 #000000;
+_filter: progid:DXImageTransform.Microsoft.Chroma(color='#000000');
+	transition: all 0.4s ease !important;
+	visibility: hidden;
+	opacity: 0;
+}
+ul.learn-press-nav-tabs .course-nav:hover:before,
+ul.learn-press-nav-tabs .course-nav.active:before{
+	visibility: visible;
+	opacity: 1;
+}
+.course-tab-panel{
+	border: 1px solid #ddd;
+	padding: 30px;
+}
+.course-curriculum ul.curriculum-sections .section-header .section-title{
+	text-align: left;
+	font-weight: 500;
+	margin: 0 0 5px
+}
+.course-curriculum ul.curriculum-sections .section-content{
+	margin: 0 0 30px;
+}
+.course-curriculum ul.curriculum-sections .section-content .course-item .item-icon, .course-curriculum ul.curriculum-sections .section-content .course-item .item-name{
+	color: #777;
+	transition: all 0.4s ease;
+}
+.course-curriculum ul.curriculum-sections .section-header{
+	border-color: #00b16a;
+}
+.course-curriculum ul.curriculum-sections .section-content .course-item.course-item-lp_lesson .section-item-link:before{
+	color: #00b16a;
+}
+.course-curriculum ul.curriculum-sections .section-content .course-item .section-item-link:hover .item-name{
+	color: #00b16a;
+}
+.button-purchase-course{
+	padding: 10px 20px !important;
+	background: #00b16a;
+	color: #fff;
+	border: 0;
+	transition: all 0.4s ease;
+	margin: 10px 0 0;
+}
+.button-purchase-course:hover{
+	background: #252525;
+}
+#learn-press-profile-nav:before{
+	background: #00b16a;
+}
+.lp-user-profile .profile-name{
+	background: #fff;
+}
+#learn-press-profile-nav .tabs > li a{
+	color: #fff;
+}
+#learn-press-profile-nav .tabs > li.active > a,
+#learn-press-profile-nav .tabs > li:hover:not(.active) > a,
+#learn-press-profile-nav .tabs > li ul{
+	background: #252525 !important;
+}
+#learn-press-profile-nav .tabs > li ul{
+	border-top: 1px solid rgba(255,255,255,0.2);
+}
+#learn-press-profile-nav .tabs > li ul li{
+	transition: all 0.4s ease;
+}
+#learn-press-profile-nav .tabs > li ul li.active{
+	background: #444;
+}
+#learn-press-profile-nav .tabs > li ul li:hover{
+	background: #00b16a;
+}
+#learn-press-profile-header{
+	background: #f5f5f5;
+}
+.lp-tab-sections .section-tab a, .lp-tab-sections .section-tab span{
+	color: #252525;
+	padding: 16px !important;
+}
+.lp-tab-sections .section-tab.active span,
+.lp-tab-sections .section-tab:hover a,
+.lp-tab-sections .section-tab:hover span{
+	border: 0;
+	background: #00b16a;
+	color: #fff;
+}
+#profile-content-settings button{
+	padding: 13px 20px;
+	background: #00b16a;
+	border-radius: 3px;
+	color: #fff;
+	border: 0;
+	transition: all 0.4s ease;
+}
+#profile-content-settings button:hover{
+	background: #252525;
+}";}

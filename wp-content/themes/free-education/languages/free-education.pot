@@ -1,0 +1,854 @@
+#Copyright Scorpionthemes
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Free Education\n"
+"POT-Creation-Date: 2018-08-03 20:09+0545\n"
+"PO-Revision-Date: 2018-08-03 20:09+0545\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#. translators: %1$s: smiley
+#: 404.php:24
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:48
+msgid "&copy; All Right Reserved "
+msgstr ""
+
+#: functions.php:56
+msgid "Primary"
+msgstr ""
+
+#: functions.php:57
+msgid "Useful Links(Footer)"
+msgstr ""
+
+#: functions.php:120
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:122 functions.php:132 functions.php:142
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:130
+msgid "Footer widget"
+msgstr ""
+
+#: functions.php:140
+msgid "Google map iframe"
+msgstr ""
+
+#: header.php:45 header.php:65
+msgid "Home"
+msgstr ""
+
+#: header.php:50 header.php:72
+msgid "404 page"
+msgstr ""
+
+#: inc/customizer/free-edu-customizer-classes.php:360
+msgid "Select Image"
+msgstr ""
+
+#: inc/customizer/free-edu-customizer-classes.php:361
+msgid "Remove"
+msgstr ""
+
+#: inc/customizer/free-edu-customizer-classes.php:366
+msgid "No image selected"
+msgstr ""
+
+#: inc/customizer/free-edu-customizer-classes.php:378
+msgid "Delete"
+msgstr ""
+
+#: inc/customizer/free-edu-customizer-classes.php:379
+msgid "Close"
+msgstr ""
+
+#: inc/customizer/free-edu-customizer-sanitize.php:61
+#: inc/customizer/free-edu-frontpage-panel.php:70
+#: inc/customizer/free-edu-frontpage-panel.php:120
+#: inc/customizer/free-edu-frontpage-panel.php:209
+#: inc/customizer/free-edu-frontpage-panel.php:338
+#: inc/customizer/free-edu-frontpage-panel.php:425
+#: inc/customizer/free-edu-frontpage-panel.php:535
+#: inc/customizer/free-edu-frontpage-panel.php:607
+#: inc/customizer/free-edu-frontpage-panel.php:673
+#: inc/customizer/free-edu-frontpage-panel.php:761
+#: inc/customizer/free-edu-frontpage-panel.php:811
+#: inc/customizer/free-edu-header-panel.php:75
+#: inc/customizer/free-edu-header-panel.php:124
+#: inc/customizer/free-edu-social-media-section.php:52
+#: inc/customizer/free-edu-social-media-section.php:85
+msgid "Show"
+msgstr ""
+
+#: inc/customizer/free-edu-customizer-sanitize.php:62
+#: inc/customizer/free-edu-frontpage-panel.php:71
+#: inc/customizer/free-edu-frontpage-panel.php:121
+#: inc/customizer/free-edu-frontpage-panel.php:210
+#: inc/customizer/free-edu-frontpage-panel.php:339
+#: inc/customizer/free-edu-frontpage-panel.php:426
+#: inc/customizer/free-edu-frontpage-panel.php:536
+#: inc/customizer/free-edu-frontpage-panel.php:608
+#: inc/customizer/free-edu-frontpage-panel.php:674
+#: inc/customizer/free-edu-frontpage-panel.php:762
+#: inc/customizer/free-edu-frontpage-panel.php:812
+#: inc/customizer/free-edu-header-panel.php:76
+#: inc/customizer/free-edu-header-panel.php:125
+#: inc/customizer/free-edu-social-media-section.php:53
+#: inc/customizer/free-edu-social-media-section.php:86
+msgid "Hide"
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:24
+msgid "Frontpage Settings"
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:42
+msgid "Slider Section"
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:43
+msgid "Managed the slider display at Frontpage section."
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:64
+msgid "Frontpage Slider Option"
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:65
+msgid "Show/Hide option for Frontpage Slider section."
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:91
+msgid "Service Section"
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:92
+msgid "Managed the Service display at Frontpage section."
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:114
+msgid "Frontpage Service Option"
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:115
+msgid "Show/Hide option for Frontpage Service section."
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:142
+msgid "Select Page for Service  section title and description"
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:158
+msgid "Go to Service Page"
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:161
+#: inc/customizer/free-edu-frontpage-panel.php:379
+#: inc/customizer/free-edu-frontpage-panel.php:626
+#: inc/customizer/free-edu-frontpage-panel.php:714
+msgid " for more info"
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:180
+msgid "Enroll Section"
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:181
+msgid "Managed the Enroll display at Frontpage section."
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:203
+msgid "Frontpage Why Choose Us Option"
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:204
+msgid "Show/Hide option for Frontpage Enroll section."
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:231
+msgid "Type Enroll Form Title"
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:253
+msgid "Type Enroll Form Subtitle"
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:266
+msgid "Contact Section Use Shortcode"
+msgstr ""
+
+#. translators: %s: Description
+#: inc/customizer/free-edu-frontpage-panel.php:268
+#, php-format
+msgid "Use Contact Form 7 plugins shortcode: Eg: %1$s. %2$s See more here %3$s"
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:288
+msgid "Select Page for Enroll section title and description"
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:309
+msgid "Course Section"
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:310
+msgid "Managed the Course display at Frontpage section."
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:332
+msgid "Frontpage Course Option"
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:333
+msgid "Show/Hide option for Frontpage course section."
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:360
+msgid "Select Page for Course  section title and description"
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:376
+msgid "Go to Course Section"
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:396
+msgid "Call to Action Section"
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:397
+msgid "Managed the  Call to action display at Frontpage section."
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:419
+msgid "Frontpage Call to Action Option"
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:420
+msgid "Show/Hide option for Frontpage Call to Action section."
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:447
+msgid ""
+"Select Page for Call to action  section title and description with feature "
+"image"
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:466
+msgid "Button  Text"
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:485
+msgid "Button  Url"
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:506
+msgid "Teacher Section"
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:507
+msgid "Managed the  Teacher display at Frontpage section."
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:529
+msgid "Frontpage Teacher Option"
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:530
+msgid "Show/Hide option for Frontpage Teacher section."
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:557
+msgid "Select Page for Teacher  section title and description"
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:578
+msgid "Testimonials Section"
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:579
+msgid "Managed the  Testimonials display at Frontpage section."
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:601
+msgid "Frontpage Testimonials Option"
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:602
+msgid "Show/Hide option for Frontpage Testimonials section."
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:623
+msgid "Go to Testimonials Page"
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:644
+msgid "Events Section"
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:645
+msgid "Managed the  Events display at Frontpage section."
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:667
+msgid "Frontpage Events Option"
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:668
+msgid "Show/Hide option for Frontpage Events section."
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:695
+msgid "Select Page for Events  section title and description"
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:711
+msgid "Go to Event Page"
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:731
+msgid "Counter Section"
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:732
+msgid "Managed the content display at Counter section."
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:754
+#: inc/customizer/free-edu-header-panel.php:117
+msgid "Inner Header Option"
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:755
+msgid "Show/Hide option for Counter section."
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:782
+msgid "Blog Section"
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:783
+msgid "Managed the  Blog display at Frontpage section."
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:805
+msgid "Frontpage Blog Option"
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:806
+msgid "Show/Hide option for Frontpage Blog section."
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:833
+msgid "Select Page for Blog  section title and description"
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:850
+msgid "Select Category for Blog"
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:864
+msgid "Number of Recent Blogs to Show in Front Page"
+msgstr ""
+
+#: inc/customizer/free-edu-frontpage-panel.php:865
+msgid "input 3,4,5,6,7,8,9,10"
+msgstr ""
+
+#: inc/customizer/free-edu-general-panel.php:31
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer/free-edu-header-panel.php:14
+msgid "Header Image"
+msgstr ""
+
+#: inc/customizer/free-edu-header-panel.php:28
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer/free-edu-header-panel.php:45
+msgid "Top Header Section"
+msgstr ""
+
+#: inc/customizer/free-edu-header-panel.php:46
+msgid "Managed the content display at top header section."
+msgstr ""
+
+#: inc/customizer/free-edu-header-panel.php:68
+msgid "Top Header Option"
+msgstr ""
+
+#: inc/customizer/free-edu-header-panel.php:69
+msgid "Show/Hide option for top header section."
+msgstr ""
+
+#: inc/customizer/free-edu-header-panel.php:95
+msgid "Inner Header Section"
+msgstr ""
+
+#: inc/customizer/free-edu-header-panel.php:96
+msgid "Managed the content display at inner header section."
+msgstr ""
+
+#: inc/customizer/free-edu-header-panel.php:118
+msgid "Show/Hide option for Inner Header section."
+msgstr ""
+
+#: inc/customizer/free-edu-page-panel.php:24
+msgid "Page Template Settings"
+msgstr ""
+
+#: inc/customizer/free-edu-page-panel.php:41
+msgid "Contact Page"
+msgstr ""
+
+#: inc/customizer/free-edu-page-panel.php:42
+msgid "Managed the content display at contact page."
+msgstr ""
+
+#: inc/customizer/free-edu-page-panel.php:54
+msgid "Contact Form Section Use Shortcode"
+msgstr ""
+
+#: inc/customizer/free-edu-page-panel.php:55
+msgid "eg [contact-form-7 id=\"108\" title=\"Contact form 1\"]"
+msgstr ""
+
+#: inc/customizer/free-edu-social-media-section.php:22
+msgid "Social Icons"
+msgstr ""
+
+#: inc/customizer/free-edu-social-media-section.php:45
+msgid "Top Header Social Media Option"
+msgstr ""
+
+#: inc/customizer/free-edu-social-media-section.php:46
+msgid "Show/Hide Socail media for top header(right)."
+msgstr ""
+
+#: inc/customizer/free-edu-social-media-section.php:78
+msgid "Footer Social media Option"
+msgstr ""
+
+#: inc/customizer/free-edu-social-media-section.php:79
+msgid "Show/Hide Socail media for Footer Section."
+msgstr ""
+
+#: inc/demo/demo.php:17
+msgid "Import Free Education Demo"
+msgstr ""
+
+#: inc/demo/demo.php:21
+msgid "It will overwrite your settings"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-functions.php:16
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of categories.
+#: inc/template-functions.php:19
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-functions.php:23
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of tags.
+#: inc/template-functions.php:26
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-functions.php:36
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-functions.php:53
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#. translators: %s: post author.
+#: inc/template-tags.php:17
+#, php-format
+msgctxt "post author"
+msgid "By: %s"
+msgstr ""
+
+#: inc/theme-info/about.php:9 inc/theme-info/about.php:10
+msgid "Free Education Setup"
+msgstr ""
+
+#. translators: theme version
+#: inc/theme-info/about.php:13
+#, php-format
+msgid "Welcome to %s - "
+msgstr ""
+
+#. translators: 1: theme name
+#: inc/theme-info/about.php:16
+#, php-format
+msgid ""
+"We hope this page will help you to setup %1$s with few clicks. We believe "
+"you will find it easy to use and perfect for your website development."
+msgstr ""
+
+#: inc/theme-info/about.php:21
+msgid "Theme Details"
+msgstr ""
+
+#: inc/theme-info/about.php:25
+msgid "View Demo"
+msgstr ""
+
+#: inc/theme-info/about.php:29
+msgid "Documentation"
+msgstr ""
+
+#: inc/theme-info/about.php:33 inc/theme-info/about.php:143
+#: inc/theme-info/class-about.php:603
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: inc/theme-info/about.php:41
+msgid "Getting Started"
+msgstr ""
+
+#: inc/theme-info/about.php:42 inc/theme-info/about.php:58
+msgid "Recommended Actions"
+msgstr ""
+
+#: inc/theme-info/about.php:43
+msgid "Support"
+msgstr ""
+
+#: inc/theme-info/about.php:49 inc/theme-info/about.php:131
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/theme-info/about.php:50
+msgid "Find step by step instructions to setup theme easily."
+msgstr ""
+
+#: inc/theme-info/about.php:51
+msgid "View documentation"
+msgstr ""
+
+#: inc/theme-info/about.php:59
+msgid ""
+"We recommend few steps to take so that you can get complete site like shown "
+"in demo."
+msgstr ""
+
+#: inc/theme-info/about.php:60
+msgid "Check recommended actions"
+msgstr ""
+
+#: inc/theme-info/about.php:67
+msgid "Customize Everything"
+msgstr ""
+
+#: inc/theme-info/about.php:68
+msgid "Start customizing every aspect of the website with customizer."
+msgstr ""
+
+#: inc/theme-info/about.php:69
+msgid "Go to Customizer"
+msgstr ""
+
+#: inc/theme-info/about.php:81
+msgid "LearnPress WordPress LMS Plugin"
+msgstr ""
+
+#: inc/theme-info/about.php:82
+msgid ""
+"Please install the LearnPress WordPress LMS Plugin Before Importing Demo."
+msgstr ""
+
+#: inc/theme-info/about.php:88
+msgid "Setting Static Front Page"
+msgstr ""
+
+#: inc/theme-info/about.php:89
+msgid ""
+"Create a new page to display on front page ( Ex: Home ) and assign \"Home\" "
+"template. Select A static page then Front page and Posts page to display "
+"front page specific sections. Note: Static page will be set automatically "
+"when you import demo content."
+msgstr ""
+
+#: inc/theme-info/about.php:92
+msgid "Static Front Page"
+msgstr ""
+
+#: inc/theme-info/about.php:95
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/theme-info/about.php:96
+msgid "Please install the Contact Form 7 plugin Before Importing Demo."
+msgstr ""
+
+#: inc/theme-info/about.php:102
+msgid "NewsLetter Plugin"
+msgstr ""
+
+#: inc/theme-info/about.php:103
+msgid "Please install the Newsletter Plugin Before Importing Demo."
+msgstr ""
+
+#: inc/theme-info/about.php:110
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/theme-info/about.php:111
+msgid ""
+"Please install the One Click Demo Import plugin to import the demo content. "
+"After activation go to Appearance >> Import Demo Data and import it."
+msgstr ""
+
+#: inc/theme-info/about.php:122 inc/theme-info/about.php:125
+msgid "Contact Support"
+msgstr ""
+
+#: inc/theme-info/about.php:124
+msgid ""
+"If you have any problem, feel free to create ticket on our dedicated Support "
+"forum."
+msgstr ""
+
+#: inc/theme-info/about.php:133
+msgid ""
+"Kindly check our theme documentation for detailed information and video "
+"instructions."
+msgstr ""
+
+#: inc/theme-info/about.php:134
+msgid "View Documentation"
+msgstr ""
+
+#: inc/theme-info/about.php:140
+msgid "Customization Request"
+msgstr ""
+
+#: inc/theme-info/about.php:142
+#, php-format
+msgid ""
+"This is 100% free theme and has premium version.Either Upgrade to Pro or  "
+"Feel free to contact us any time if you need any customization service."
+msgstr ""
+
+#: inc/theme-info/class-about.php:164
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing %1$s! To fully take advantage of the best "
+"our theme can offer please make sure you visit our %2$swelcome page%3$s."
+msgstr ""
+
+#: inc/theme-info/class-about.php:164
+#, php-format
+msgid "Get started with %s"
+msgstr ""
+
+#: inc/theme-info/class-about.php:561
+msgid "Install"
+msgstr ""
+
+#: inc/theme-info/class-about.php:565
+msgid "Activate"
+msgstr ""
+
+#: inc/theme-info/class-about.php:569
+msgid "Deactivate"
+msgstr ""
+
+#: inc/widgets/free-edu-footer-latest-posts.php:18
+msgid "Latest Posts"
+msgstr ""
+
+#: inc/widgets/free-edu-sidebar-recent-posts.php:17
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/widgets/free-edu-usefullink.php:18
+msgid "Useful Links"
+msgstr ""
+
+#: learnpress/archive-course.php:63 sections/free-edu-course.php:58
+msgid "Seat"
+msgstr ""
+
+#: learnpress/single-course.php:64
+msgid "Course Features"
+msgstr ""
+
+#: learnpress/single-course.php:68
+msgid "Lectures"
+msgstr ""
+
+#: learnpress/single-course.php:75
+msgid "Quizzes"
+msgstr ""
+
+#: learnpress/single-course.php:82
+msgid "Duration"
+msgstr ""
+
+#: learnpress/single-course.php:90
+msgid "Students"
+msgstr ""
+
+#: learnpress/single-course.php:107
+msgid "Teacher:"
+msgstr ""
+
+#: learnpress/single-course.php:111
+msgid "Category"
+msgstr ""
+
+#: learnpress/single-course.php:115
+msgid "Enrolled:"
+msgstr ""
+
+#: learnpress/single-course.php:119
+msgid "Course Time:"
+msgstr ""
+
+#: learnpress/single-course.php:135
+msgid "Enroll"
+msgstr ""
+
+#. translators: %s: search query.
+#: search.php:23
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: sections/free-edu-blogs.php:62 template-parts/content-archive.php:46
+#: template-parts/content-search.php:45 template-parts/content.php:46
+msgid "Read More"
+msgstr ""
+
+#: sections/free-edu-events.php:50
+msgid "Read more"
+msgstr ""
+
+#: template-parts/content-archive.php:50 template-parts/content-search.php:49
+#: template-parts/content.php:50
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:23
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:36
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:43
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/header/header-menu.php:24
+msgid "Add a menu"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Free Education"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://scorpionthemes.com/downloads/free-education-wordpress-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Free Education is a simple, clean, responsive and user-friendly education "
+"WordPress theme specially designed for university, school, college or other "
+"educational institutions. The Free Education theme has powerful theme "
+"customization options such as custom header settings, logo, custom menu, "
+"social icons, featured slider, courses and more. It makes your website more "
+"engaging and informative. Especially, the Free Education theme works "
+"excellent with Free Education Helper and learpress plugins, help you easily "
+"create flexible content and sell the course online."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "scorpionthemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://scorpionthemes.com/"
+msgstr ""
