@@ -1,6 +1,6 @@
 <?php
 /*
-* Template Name: Contact page
+* Template Nfffame: Contact page
 */	
 get_header();
 ?>	
